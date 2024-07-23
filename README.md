@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samadrita Mondal</h1>
-<h3 align="center">BTech CSE '27 Undergrad, IIIT-G</h3>
+<h3 align="center">BTech CSE '27 Undergrad</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samadritam30&label=Profile%20views&color=0e75b6&style=flat" alt="samadritam30" /> </p>
 
@@ -26,7 +26,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samadritam30&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="samadritam30" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samadritam30&show_icons=true&locale=en&theme=highcontrast" alt="samadritam30" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samadritam30&theme=highcontrast" alt="samadritam30" /></p>
 
