@@ -29,8 +29,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samadritam30&theme=highcontrast" alt="samadritam30" /></p>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samadritam30" alt="samadritam30" /></a> </p>
-
-
 ###
