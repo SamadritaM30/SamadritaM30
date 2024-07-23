@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samadrita Mondal</h1>
-<h3 align="center">BTech CSE '27 Undergrad</h3>
+<h3 align="center">BTech CSE '27 Undergrad, IIIT-G</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samadritam30&label=Profile%20views&color=0e75b6&style=flat" alt="samadritam30" /> </p>
 
